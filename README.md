@@ -4,6 +4,6 @@
 <li>I'm currently working towards being fluent in lua, java, html, css, and js.</li>
 
 <h3>🌐 Contact Information</h3>
- Discord - søft#8723
- <br>Steam - <a href="https://steamcommunity.com/id/-softz/" rel="nofollow">id/-softz/</a></br>
+ <li>Discord - søft#8723</li>
+ <li><br>Steam - <a href="https://steamcommunity.com/id/-softz/" rel="nofollow">id/-softz/</a></br></li>
  
