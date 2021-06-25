@@ -5,5 +5,5 @@
 
 <h3>🌐 Contact Information</h3>
  Discord - søft#8723
- Steam - <a href="https://steamcommunity.com/id/-softz/" rel="nofollow">id/-softz/</a>
+ <br>Steam - <a href="https://steamcommunity.com/id/-softz/" rel="nofollow">id/-softz/</a></br>
  
