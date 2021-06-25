@@ -3,7 +3,7 @@
 <h3><br>🧠 Currently learning</br></h3>
 <li>I'm currently working towards being fluent in lua, java, html, css, and js.</li>
 
-🌐 Contact Information
+<h3>🌐 Contact Information</h3>
  <br>Discord - søft#8723</br>
  Steam - <a href="https://steamcommunity.com/id/-softz/" rel="nofollow">id/-softz/</a>
  
