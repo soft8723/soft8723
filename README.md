@@ -5,5 +5,5 @@ I'm currently working towards being fluent in lua, java, html, css, and js.
 
 🌐 Contact Information
  <br>Discord - søft#8723</br>
- Steam - <a id/-softz/ >
+ Steam - <a href="https://steamcommunity.com/id/-softz/" rel="nofollow">id/luaterrorist</a>
  
