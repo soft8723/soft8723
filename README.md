@@ -4,6 +4,6 @@ Welcome to my github profile. I'm Glock, currently 16 years old and always learn
 I'm currently working towards being fluent in lua, java, html, css, and js.
 
 🌐 Contact Information
- Discord - søft#8723
+ <brDiscord - søft#8723</br>
  Steam - id/-softz/
  
