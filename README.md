@@ -4,6 +4,6 @@
 <li>I'm currently working towards being fluent in lua, java, html, css, and js.</li>
 
 <h3>🌐 Contact Information</h3>
- <li><a target="_blank" rel="noopener noreferrer" href="/glockhvh/glockhvh/blob/main/smalldiscord.png"><img src="/glockhvh/glockhvh/raw/main/smalldiscord.png" alt="" style="max-width:100%;"></a><img src="/glockhvh/glockhvh/raw/main/smalldiscord.png" alt="" style="max-width:100%;">Discord - søft#8723</li>
+ <li>Discord - søft#8723</li>
  <li>Steam - <a href="https://steamcommunity.com/id/-softz/" rel="nofollow">id/-softz/</a></li>
  
